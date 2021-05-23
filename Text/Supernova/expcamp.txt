@@ -1,0 +1,27 @@
+input /echo @expcamp 10-11 Valkurm Dunes (L-10) Hill Lizard
+input /echo @expcamp 12-14 Valkurm Dunes (H-9) Snipper 
+input /echo @expcamp 15-16 Korroloka Tunnel (C-8) Land Worm
+input /echo @expcamp 17-17 Valkurm Dunes (J-7) Damselfly
+input /echo @expcamp 18-19 Sauromugue Champaign (G-7) Diving Beetle
+input /echo @expcamp 20-21 Qufim Island (H-8) Land Worm / Clipper
+input /echo @expcamp 22-23 Carpenters' Landing (I-12) Diving Beetle / Shrieker
+input /echo @expcamp 24-25 Yuhtunga Jungle (G-6) Yuhtunga Mandragora
+input /echo @expcamp 26-27 Yuhtunga Jungle (G-10) Goblin Furrier / Young Opo-opo
+input /echo @expcamp 28-29 Yhoator Jungle (F-7) Yhoator Mandragora
+input /echo @expcamp 30-31 Sauromugue Champaign (G-7) Evil Weapon
+input /echo @expcamp 32-33 Eastern Altepa Desert (I-6) Desert Dhalmel
+input /echo @expcamp 34-35 Garlaige Citadel (G-7) Siege Bat / Borer Beetle / Wingrats
+input /echo @expcamp 36-37 Crawlers' Nest (J-9) Worker Crawler
+input /echo @expcamp 38-39 East Ronfaure [S] (I-10) Ladybug
+input /echo @expcamp 40-41 Eastern Altepa Desert (F-10) Goblin Robber
+input /echo @expcamp 42-43 Western Altepa Desert (H-7) Desert Beetle
+input /echo @expcamp 44-45 Meriphataud Mountains (S) (G-5) Lynx
+input /echo @expcamp 46-47 Bostaunieux Oubliette (I-6) Funnel Bats
+input /echo @expcamp 48-49 Garlaige Citadel (F-8) Chamber Beetle
+input /echo @expcamp 50-51 The Boyahda Tree (J-11) Bark Spider
+input /echo @expcamp 52-53 Uleguerand Range (G-11) Variable Hare / Uleguerand Tiger
+input /echo @expcamp 54-55 Bhaflau Thickets (I-8) Lesser Colibri / Aht Urhgan Attercop
+input /echo @expcamp 56-57 Gustav Tunnel (H-10) Robber Crab / Goblins
+input /echo @expcamp 57-58 Cape Teriggan (I-9) Robber Crab / Terror Pugil / Beach Bunny
+input /echo @expcamp 58-59 Bhaflau Thickets (I-8) Lesser Colibri / Aht Urhgan Attercop
+input /echo @expcamp 59-60 Aydeewa Subterrane (J-7) Defoliator

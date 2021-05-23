@@ -1,0 +1,19 @@
+input /echo ====================== Outer Circle (Safer) ======================
+input /echo North -> Dark Crystal
+input /echo North East -> Light Crystal
+input /echo East -> Ice Crystal
+input /echo South East -> Wind Crystal
+input /echo South -> Earth Crystal
+input /echo South West -> Lightning Crystal
+input /echo West -> Water Crystal
+input /echo North West -> Fire Crystal
+input /echo ================== Inner Circle (HQ/Skillups) =====================
+input /echo North -> Light Crystal
+input /echo North East -> Dark Crystal
+input /echo East -> Wind Crystal
+input /echo South East -> Earth Crystal
+input /echo South -> Lightning Crystal
+input /echo South West -> Water Crystal
+input /echo West -> Fire Crystal
+input /echo North West -> Ice Crystal
+input /echo ===============================================================
