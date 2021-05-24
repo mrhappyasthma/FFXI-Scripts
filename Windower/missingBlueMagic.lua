@@ -13,11 +13,11 @@ for key, value in pairs(blu_spells) do
     local requiredLevel = value.levels[16]
     if player.jobs["BLU"] >= requiredLevel then
       missingSpells = true
-      windower.add_to_chat(123, "Unlearned Blue Magic Spell: " .. value.english .. " " .. requiredLevel)
+      windower.add_to_chat(160, "Unlearned Blue Magic Spell: " .. value.english .. " " .. requiredLevel)
     end
   end
 end
 
 if not missingSpells then
-  windower.add_to_chat(123, "Congrats! You already know all the Blue Magic that you can use for your level! :)")
+  windower.add_to_chat(100, "Congrats! You already know all the Blue Magic that you can use for your level! :)")
 end
