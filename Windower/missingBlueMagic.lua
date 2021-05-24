@@ -19,5 +19,5 @@ for key, value in pairs(blu_spells) do
 end
 
 if not missingSpells then
-  windower.add_to_chat(100, "Congrats! You already know all the Blue Magic that you can use for your level! :)")
+  windower.add_to_chat(127, "Congrats! You already know all the Blue Magic that you can use for your level! :)")
 end
