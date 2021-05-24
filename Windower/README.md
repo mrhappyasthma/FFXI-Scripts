@@ -12,9 +12,13 @@ Resources: https://github.com/Windower/Resources
 
 I could not find a definitive source for the Windower Lua API, so here's what I've put together so far.
 
-Most elements are grabbed from the `windower.ffxi` global.
+### Resources
 
 Any [resources](https://github.com/Windower/Resources) can be included with `local resources = require('resources')`.
+
+### Globals
+
+Most elements are grabbed from the `windower.ffxi` global.
 
 Below are some of the keys available on common commands:
 
@@ -37,3 +41,16 @@ Below are some of the keys available on common commands:
 `windower.ffxi.get_key_items()`
 
 The keys appear to be numbered ints. I'm not entirely sure. But the `value` contains the key item `ID`.
+
+### Text output
+
+```
+-- <color> 0 to 255, as seen below for the various colors
+-- <text> A string of text to display in the choosen color
+--
+windower.add_to_chat(<color>, <text>)
+```
+
+Colors:
+
+![Image of all color codes](https://i.imgur.com/VZ3BgaA.png)
