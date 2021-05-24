@@ -32,9 +32,9 @@ end
 -- Print the remaining dynamis names, which are the ones the player
 -- still needs to beat.
 if next(dynamis_key_items) == nil then
-  windower.add_to_chat(123, "Congrats! You have all dynamis wins already! :)")
+  windower.add_to_chat(100, "Congrats! You have all dynamis wins already! :)")
 else
   for key, value in pairs(dynamis_key_items) do
-    windower.add_to_chat(123, "Player needs dynamis win: " .. value.name)
+    windower.add_to_chat(160, "Player needs dynamis win: " .. value.name)
   end
 end
