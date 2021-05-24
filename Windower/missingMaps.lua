@@ -20,7 +20,7 @@ for key, value in pairs(all_key_items) do
   if value["category"] == "Magical Maps" then
     if not has_value(players_key_items, key) then
       local map = value["en"]
-      windower.add_to_chat(123, "Missing Map: " .. map)
+      windower.add_to_chat(160, "Missing Map: " .. map)
     end
   end
 end
