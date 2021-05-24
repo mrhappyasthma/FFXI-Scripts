@@ -28,5 +28,5 @@ for key, value in pairs(all_key_items) do
 end
 
 if not missingMaps then
-  windower.add_to_chat(100, "Congrats! You already unlocked all the Magical Maps! :)")
+  windower.add_to_chat(127, "Congrats! You already unlocked all the Magical Maps! :)")
 end
