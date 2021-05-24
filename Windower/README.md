@@ -1,8 +1,20 @@
+## Existing Resources
+
+These weren't that helpful, in my opinion. But including them here anyway for reference.
+
+Documentation (although not that helpful): https://github.com/Windower/Lua/wiki
+
+Existing Lua addons/scripts as examples: https://github.com/Windower/Lua
+
+Resources: https://github.com/Windower/Resources
+
+## Definitive Resources
+
 I could not find a definitive source for the Windower Lua API, so here's what I've put together so far.
 
 Most elements are grabbed from the `windower.ffxi` global.
 
-Any resources can be included with `local resources = require('resources')`.
+Any [resources](https://github.com/Windower/Resources) can be included with `local resources = require('resources')`.
 
 Below are some of the keys available on common commands:
 
