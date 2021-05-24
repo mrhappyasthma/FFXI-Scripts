@@ -16,11 +16,17 @@ end
 
 local all_key_items = res.key_items
 local players_key_items = windower.ffxi.get_key_items()
+local missingMaps = false
 for key, value in pairs(all_key_items) do
   if value["category"] == "Magical Maps" then
     if not has_value(players_key_items, key) then
+    missingMaps = true
       local map = value["en"]
       windower.add_to_chat(160, "Missing Map: " .. map)
     end
   end
+end
+
+if not missingMaps then
+  windower.add_to_chat(100, "Congrats! You already unlocked all the Magical Maps! :)")
 end
