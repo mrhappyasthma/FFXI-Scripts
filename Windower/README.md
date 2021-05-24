@@ -20,7 +20,7 @@ Below are some of the keys available on common commands:
 
 `windower.ffxi.get_player()`
 
-![get_player key names](https://i.imgur.com/gUaWal4.png)
+![get_player key names](https://i.imgur.com/yKjbhWu.png)
 
 `windower.ffxi.get_bag_info()`
 
