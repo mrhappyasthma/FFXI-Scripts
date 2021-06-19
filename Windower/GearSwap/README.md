@@ -1,4 +1,4 @@
-## Windower4 GearSwap scripts
+# Windower4 GearSwap scripts
 
 Install the `addon` for `GearSwap`.
 
@@ -10,7 +10,7 @@ For example:
 C:\Program Files (x86)\Windower4\addons\GearSwap\data
 ```
 
-### About
+## About
 
 Most of these scripts are SUPER simple. The biggest thing I
 added (aside from some simple gear that I use for my lvl 75
