@@ -1,0 +1,18 @@
+/echo ================= Empress Band =================
+/echo Most flexible but least amount of bonus exp
+/echo -> Charges: 5 (Total exp: 11,250)
+/echo -> Duration: 150 min. (2.5 hr)
+/echo -> Exp Bonus: 75% - max 2,250
+/echo -> Cooldown: 1 hour
+/echo ================= Emperor Band =================
+/echo 2nd most bonus exp with some flexibility
+/echo -> Charges: 5 (Total exp: 11,250)
+/echo -> Duration: 150 min. (2.5 hr)
+/echo -> Exp Bonus: 75% - max 2,250
+/echo -> Cooldown: 1 hour
+/echo ================= Chariot Band =================
+/echo Most bonus exp but long cooldown
+/echo -> Charges: 3 (Total exp: 12,000)
+/echo -> Duration: 120 min. (2 hr)
+/echo -> Exp Bonus: 100% - max 4,000
+/echo -> Cooldown: 16 hours
