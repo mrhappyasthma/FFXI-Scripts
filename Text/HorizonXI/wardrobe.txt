@@ -1,0 +1,24 @@
+/echo ================= Mog Wardrobe 1 =================
+/echo -> Unlock Subjob: 5 slots
+/echo -> Unlock First Advanced Job: 5 slots
+/echo -> Unlock Rank 3: 10 slots
+/echo -> Unlock Rank 6: 10 slots
+/echo -> Unlock Rank 8: 10 slots
+/echo -> Unlock Rank 10: 10 slots
+/echo -> Limit Break 1: 5 slots
+/echo -> Limit Break 2: 5 slots
+/echo -> Limit Break 3: 5 slots
+/echo -> Limit Break 4: 5 slots
+/echo -> Limit Break 5: 5 slots
+/echo -> Unlock Merits: 5 slots
+/echo ================= Mog Wardrobe 2 =================
+/echo -> Zilart Mission 4: 5 slots
+/echo -> Zilart Mission 6: 5 slots
+/echo -> Zilart Mission 8: 5 slots
+/echo -> Zilart Mission 13: 5 slots
+/echo -> Divine Might: 5 slots
+/echo -> CoP Mission 1-3: 5 slots
+/echo -> CoP Mission 2-5: 2 slots
+/echo -> CoP Mission 3-5: 5 slots
+/echo -> CoP Mission 4-2: 3 slots
+/echo -> CoP Mission 5-2: 5 slots
