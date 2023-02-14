@@ -1,0 +1,21 @@
+/echo +-----+-------------------------+-----------------------+------------+----------------+------------------+
+/echo | Lvl |          Area           |        Region         | Controlled | Not-Controlled | Beast-Controlled |
+/echo +-----+-------------------------+-----------------------+------------+----------------+------------------+
+/echo |  20 | North Gustaberg         | Gustaberg             |        200 |            800 |             1000 |
+/echo |  20 | West Ronfaure           | Ronfaure              |        200 |            800 |             1000 |
+/echo |  20 | West Sarutabaruta       | Sarutabaruta          |        200 |            800 |             1000 |
+/echo |  20 | Valkurm Dunes           | Zulkheim              |        200 |            800 |             1000 |
+/echo |  20 | Buburimu Peninsula      | Kolshushu             |        200 |            800 |             1000 |
+/echo |  25 | Meriphataud Mountains   | Aragoneu              |        250 |           1000 |             1250 |
+/echo |  25 | Pashhow Marshlands      | Derfland              |        250 |           1000 |             1250 |
+/echo |  25 | Jugner Forest           | Norvallen             |        250 |           1000 |             1250 |
+/echo |  25 | Qufim Island            | Qufim                 |        250 |           1000 |             1250 |
+/echo |  30 | Lufaise Meadows*        | Tavnazian Archipelago |        300 |           1200 |             1500 |
+/echo |  35 | Yuhtunga Jungle         | Elshimo Lowlands      |        350 |           1400 |             1750 |
+/echo |  35 | Beaucedine Glacier      | Fauregandi            |        350 |           1400 |             1750 |
+/echo |  35 | The Sanctuary of Zi'Tah | Li'Telor              |        350 |           1400 |             1750 |
+/echo |  40 | Eastern Altepa Desert   | Kuzotz                |        400 |           1600 |             2000 |
+/echo |  40 | Xarcabard               | Valdeaunia            |        400 |           1600 |             2000 |
+/echo |  45 | Yhoator Jungle          | Elshimo Uplands       |        450 |           1800 |             2250 |
+/echo |  65 | Cape Teriggan           | Vollbow               |        650 |           2600 |             3250 |
+/echo +-----+-------------------------+-----------------------+------------+----------------+------------------+
