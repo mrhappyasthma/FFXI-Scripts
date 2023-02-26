@@ -1,1 +1,1 @@
-/echo Fishing reset hours: 0, 1, 2, 4, 5, 6, 7, 17, 18, 20, 21
+/echo Fishing reset hours: 0, 4, 6, 7, 17, 18, 20
