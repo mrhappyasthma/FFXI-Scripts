@@ -1,0 +1,30 @@
+/echo +-------------------------+-------------------+--------------------+
+/echo |           Zone          | Digging for Skill | Digging for Profit |
+/echo +-------------------------+-------------------+--------------------+
+/echo | Altepa Desert, Eastern | D- | A |
+/echo | Altepa Desert, Western	F	A+ |
+/echo | Batallia Downs	B+	C- |
+/echo | Bhaflau Thickets	C	A- |
+/echo | Bibiki Bay	B	C |
+/echo | Buburimu Peninsula	B	B- |
+/echo | Carpenters' Landing	B-	C |
+/echo | Gustaberg, North	B-	B+ |
+/echo | Gustaberg, South	A-	B |
+/echo | Jugner Forest	C+	C |
+/echo | Konschtat Highlands	C+	B |
+/echo | La Theine Plateau	B+	D+ |
+/echo | Meriphataud Mountains	D	B+ |
+/echo | Pashhow Marshlands	C-	C+ |
+/echo | Rolanberry Fields	F	B+ |
+/echo | Ronfaure, East	B-	B- |
+/echo | Ronfaure, West	B	C |
+/echo | Sanctuary of Zi'Tah	B	C |
+/echo | Sarutabaruta, East	A	C |
+/echo | Sarutabaruta, West	A	B- |
+/echo | Sauromugue Champaign	D	B |
+/echo | Tahrongi Canyon	C	B+ |
+/echo | Valkurm Dunes	A	C+ |
+/echo | Wajaom Woodlands	C	A- |
+/echo | Yhoator Jungle	C-	A |
+/echo | Yuhtunga Jungle	C-	A- |
+/echo +-------------------------+-------------------+--------------------+
