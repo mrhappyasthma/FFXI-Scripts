@@ -1,0 +1,6 @@
+/echo +-----------+-----------------------+
+/echo |   Weapon  |   Optimal Distance    |
+/echo +-----------+-----------------------+
+/echo |     Bow   | 7.5-9.7 yamls         |
+/echo |  Crossbow | 7.0-8.5 yamls         |
+/echo |     Gun   | 4.5-5.5 yamls         |
